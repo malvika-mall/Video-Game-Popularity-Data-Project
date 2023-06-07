@@ -1,6 +1,6 @@
 # Video Game Popularity Data Analysis Project
 GameCo, a new video game company wants to have a better understanding of how GameCo’s new games might fare in the market.
-![image](https://media.4rgos.it/i/Argos/sb-1722-m007-25-01-as490149130?maxW=768&qlt=75&fmt.jpeg.interlaced=true)
+         ![image](https://media.4rgos.it/i/Argos/sb-1722-m007-25-01-as490149130?maxW=768&qlt=75&fmt.jpeg.interlaced=true)
 
 ## Project Objective:
 GameCo executives are open to hearing any insights you can pull from the data but are specifically interested in these questions:
